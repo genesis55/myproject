@@ -20,13 +20,14 @@
         "cweagans/composer-patches": "^1.6",
         "drupal-composer/drupal-scaffold": "^2.2",
         "drupal/console": "~1.0",
-        "drupal/core": "~8.0",
         "drupal/devel": "~1.0",
         "drush/drush": "~8.0",
         "webflo/drupal-finder": "^0|^1.0.0",
-        "webmozart/path-util": "^2.3"
+        "webmozart/path-util": "^2.3",
+        "drupal/core": "8.2.7"
     },
     "require-dev": {
+        "drupal/devel": "~1.0",
         "behat/mink": "~1.7",
         "behat/mink-goutte-driver": "~1.2",
         "jcalderonzumba/gastonjs": "~1.0.2",
